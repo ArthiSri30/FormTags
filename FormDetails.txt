@@ -1,0 +1,3 @@
+FORM DETAILS
+
+    A form is a structured document designed for collecting and organizing information. It provides a way to input data, such as text, numbers, or selections, in a consistent and standardized manner. Forms are used for various purposes, including data gathering, record-keeping, and administrative tasks. 
